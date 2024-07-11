@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hello there! I'm a Front-End Developer in the Making! 🚀
+# 🙋‍♂️ Hello there! I'm a Front-End Developer! 🚀
 
 ## 🌟 About Me
 
