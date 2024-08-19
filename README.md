@@ -4,14 +4,6 @@
 
 I'm a passionate beginner in the world of front-end development, eager to learn and explore new technologies. With a love for creating engaging user experiences, I'm excited to embark on this incredible journey! 💻✨
 
-## 🎮 Interests
-
-When I'm not coding, you can find me:
-
-- 🕹️ Gaming: I enjoy immersing myself in virtual worlds and experiencing captivating storylines.
-- 🎧 Music: I love discovering new artists and genres, and music always keeps me motivated.
-- 📚 Books: Reading is my gateway to knowledge and imagination. I'm always ready to dive into a good book!
-- 🎥 Movies & TV Series: I'm a fan of compelling storytelling and visual aesthetics in films and series.
 
 ## 🌱 Learning Journey
 
